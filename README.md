@@ -30,9 +30,9 @@ li a:hover {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#news">About Me</a></li>
-  <li><a href="#contact">Portfolio</a></li>
-  <li><a href="#about">Contact</a></li>
+  <li><a href="#aboutme">About Me</a></li>
+  <li><a href="#portfolio">Portfolio</a></li>
+  <li><a href="#contact">Contact</a></li>
 </ul>
 
 </body>
