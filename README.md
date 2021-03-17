@@ -1,7 +1,3 @@
-# VON YIP
-My first GitHub Pages Repository
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -32,14 +28,11 @@ li a:hover {
 </head>
 <body>
 
-<h2>Navigation Menu</h2>
-<p>In this example, we use CSS to style the list horizontally, to create a navigation menu:</p>
-
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="#news">About Me</a></li>
+  <li><a href="#contact">Portfolio</a></li>
+  <li><a href="#about">Contact</a></li>
 </ul>
 
 </body>
