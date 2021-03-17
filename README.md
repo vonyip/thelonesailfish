@@ -1,38 +1,25 @@
-## Von Yip
-You can use the [editor on GitHub](https://github.com/vonyip/thelonesailfish/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Happy Birthday!!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wish someone special happy birthday in a special way.
 
-Let's run [Creativity School](https://creativityschool.com/)
+#### [See it Live](https://faahim.github.io/happy-birthday/)
 
-### Markdown
+It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to use it to wish your friend if you want.
+You can get it running in a few easy steps:
 
-``` markdown
-Syntax highlighted code block
+* Fork the repository
+* Open `customize.json` and replace name/wish-message/image with your own
+* Turn on GitHub pages for the repository (Settings > GitHub Pages)
+* Send the URL that you get at the above step to your friend
 
-# Header 1
-## Header 2
-### Header 3
+I've created the JSON file for easy and quick customizability. If you want to do more customizing, simply edit the HTML file. But in that case, leave the JSON fields empty since it overwrites the HTML. Please note that I've created this page in a hurry and it comes with no warranty, so check yourself before sending it to your friend.
 
-- Bulleted
-- List
+I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
 
-1. Numbered
-2. List
+## Contributing
 
-**Bold** and _Italic_ and `Code` text
+If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vonyip/thelonesailfish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stay happy and keep the people you care about happy. :)
