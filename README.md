@@ -6,7 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 
 li {
@@ -22,7 +22,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #ffffff;
+  background-color: #dadad9;
 }
 </style>
 </head>
